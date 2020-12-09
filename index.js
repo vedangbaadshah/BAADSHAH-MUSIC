@@ -42,4 +42,4 @@ fs.readdir("./commands/", (err, files) => {
 });
 
 //Login
-client.login(settings.NjQ1NjE4NTk1MzUwNzA4MjY0.XdFNLA.Fj0jhCj8qJpT9xHGg1jo6l03nAU);
+client.login(settings.YOUR TOKEN HERE);
